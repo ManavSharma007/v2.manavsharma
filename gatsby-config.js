@@ -5,7 +5,7 @@ module.exports = {
     title: 'Manav Sharma',
     description:
       'Manav Sharma is an aspiring Software engineer who likes to build new things in tech industry and is also a competitive programmer.',
-    siteUrl: 'https://manavsharma007.github.io/v2-main/', // No trailing slash allowed!
+    siteUrl: 'https://manavsharma007.github.io/v2.manavsharma/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@_manavsharma007',
   },
