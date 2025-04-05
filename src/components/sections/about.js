@@ -146,7 +146,7 @@ const About = () => {
             <p>
             Fast forward to today, I had the privilege of working at an advertising agency, a huge corporation, a college students-led organisation and as a freelancer.
             My main focus these days is building accessible, inclusive products and digital experiences at {' '} 
-            <a href="https://irdeto.com/">Irdeto Technlogy </a>, {' '} for a variety of clients.
+            <a href="https://irdeto.com/">Irdeto Technology </a>, {' '} for a variety of clients.
             </p>
 
             <p>
